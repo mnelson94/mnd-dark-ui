@@ -9,7 +9,7 @@
     "ui"
   ],
   "license": "MIT",
-  "repository": "https://github.com/atom/mnd-dark-ui",
+  "repository": "https://github.com/mnelson94/mnd-dark-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
